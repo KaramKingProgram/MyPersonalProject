@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\DataAccessesLayer\bin\Debug\DataAccessesLayer.dll
+C:\Users\hp\source\repos\DataAccessesLayer\bin\Debug\DataAccessesLayer.pdb
+C:\Users\hp\source\repos\DataAccessesLayer\obj\Debug\MyDataAccessesLayer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DataAccessesLayer\obj\Debug\MyDataAccessesLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataAccessesLayer\obj\Debug\DataAccessesLayer.dll
+C:\Users\hp\source\repos\DataAccessesLayer\obj\Debug\DataAccessesLayer.pdb
+D:\MyVs22Project\source\repos\DataAccessesLayer\bin\Debug\DataAccessesLayer.dll
+D:\MyVs22Project\source\repos\DataAccessesLayer\bin\Debug\DataAccessesLayer.pdb
+D:\MyVs22Project\source\repos\DataAccessesLayer\obj\Debug\MyDataAccessesLayer.csproj.AssemblyReference.cache
+D:\MyVs22Project\source\repos\DataAccessesLayer\obj\Debug\MyDataAccessesLayer.csproj.CoreCompileInputs.cache
+D:\MyVs22Project\source\repos\DataAccessesLayer\obj\Debug\DataAccessesLayer.dll
+D:\MyVs22Project\source\repos\DataAccessesLayer\obj\Debug\DataAccessesLayer.pdb
